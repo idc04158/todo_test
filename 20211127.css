@@ -1,0 +1,11 @@
+h1{
+    margin: 15px;
+}
+.input-group{
+    width: 50%;
+    margin: 15px;
+    
+}
+.btn{
+    background-color: gold; border: none;
+}
